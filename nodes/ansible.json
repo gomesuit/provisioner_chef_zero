@@ -1212,6 +1212,7 @@
     }
   },
   "run_list": [
-    "recipe[zsh]"
+    "recipe[zsh]",
+    "recipe[common]"
   ]
 }
